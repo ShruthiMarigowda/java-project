@@ -1,7 +1,7 @@
 package com.mkyong.hashing;
 
 /**
- * Hello Jenkins...!
+ * Hello Pipeline Job!
  *
  */
 public class App 
